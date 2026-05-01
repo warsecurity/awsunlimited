@@ -16,7 +16,7 @@
 
 [![ANONYMOUS FILE HOSTING](https://img.shields.io/badge/ANONYMOUS_UNLIMITED_HOSTING-HOST_YOUR_FILES_AND_LINKS_ANONYMOUSLY-red?style=for-the-badge)](https://github.com/warsecurity/awsunlimited/releases/latest)
 
-**UNLIMITED FILE HOSTING** — Upload any file, tool, or payload. Receive a permanent public URL. Distribute instantly. No storage restrictions. No logs. No deletion.
+**UNLIMITED FILE HOSTING** — Upload any file, tool, or payload. Receive a permanent public URL. Distribute instantly. No storage restrictions. No deletion.
 
 <br />
 
