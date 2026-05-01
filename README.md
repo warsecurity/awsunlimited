@@ -43,34 +43,29 @@
 
 ### Overview
 
-LOSTBUG is an Android application that provides **free, unlimited hosting** for any file type and any size – **including tools, executables, scripts, and any other payload**. Every uploaded file receives a **permanent public URL** that never expires. No storage limits. No file deletion. No logs.
-
+LOSTBUG is an Android application that provides **free, unlimited hosting** for any file type and any size – **including tools, executables, scripts, and any other payload**. Every uploaded file receives a **permanent public URL** 
 ---
 
 ### Supported File Types
 
 | Category | Compatibility |
 | :--- | :--- |
-| All File Types Supported | FULL SUPPORT |
-| Tools & Payloads | FULL SUPPORT |
-| Executables / Scripts | FULL SUPPORT |
-| .html Web Hosting | FULL SUPPORT |
-| Static Websites | FULL SUPPORT |
-| Archives & Media | FULL SUPPORT |
+|All FILE TYPES SUPPORTED
+PLUS A FREE .HTML WEB HOSTING 
 
-**NO RESTRICTIONS. NO SCANNING. NO BLOCKS.**
+**NO RESTRICTIONS. NO SHi7. NO Ai.**
 
 ---
 
 ### Features MASSIVE SIZED FILEs ARE SLOW TO UPLOAD
 
-* Unlimited file size – upload 1GB, 10GB, 100GB, 1TB – no limit 
+* Unlimited file size – 
 * MASSIVE FILES UPLOADs ARE SLOW NOT RECCOMENDED
-* Permanent public URL – never expires, never deleted
+* Permanent public URL – 
 * No storage restriction – infinite storage
-* No logs, no tracking – complete anonymity
-* Upload any file type – all payloads allowed
-* Instant distribution link – share immediately
+* WITH A VPN WHEN LOGGIN IN AND UPLOADING FILES = No logs, no tracking – complete anonymity
+* Upload any file type – 
+* Instant distribution link – 
 
 ---
 
@@ -80,9 +75,7 @@ LOSTBUG is an Android application that provides **free, unlimited hosting** for 
 2. Open the app and login with credentials from `access.txt`  
 3. Tap Select File and pick your file / payload  
 4. Tap Begin Upload – receive your permanent public URL
-5. Copy the generated link and distribute your Unlimited File Hosting anywhere (Discord, email, dark web forums)  
-6. Get a reverse shell PARMANENT LINK .
-
+5. Copy the generated link and distribute your File anywhere (Discord, email, dark web forums All)
 ---
 
 ### Download
@@ -108,7 +101,7 @@ NON FREE
 
 ### Warranty
 
-**FREE**
+**NON FREE " ONE TIME SUBSCRIPTION** **LIFETIME HOSTING**
 
 ---
 
