@@ -1,5 +1,3 @@
-# awsunlimited
-
 <div align="center">
 
 <img src="https://img.icons8.com/color/144/amazon-web-services.png" alt="AWS Icon" width="120" />
@@ -12,9 +10,9 @@
 <img src="https://img.shields.io/badge/Binary-Not%20Open%20Source-EA4335?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Storage-UNLIMITED-FBBC04?style=for-the-badge&labelColor=333" />
 
-# LOSTBUG · UNLIMITED EDITION
+# LOSTBUG ·AWS UNLIMITED
 
-<h2 style="color:red;">IGNORE EVERYTHING NOTHING PATCHED</h2>
+<h2 style="color:red;">Unlimited Upload Storage</h2>
 
 [![ANONYMOUS FILE HOSTING](https://img.shields.io/badge/ANONYMOUS_UNLIMITED_HOSTING-HOST_YOUR_FILES_AND_LINKS_ANONYMOUSLY-red?style=for-the-badge)](https://github.com/warsecurity/awsunlimited/releases/latest)
 
