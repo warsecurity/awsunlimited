@@ -55,7 +55,7 @@ LOSTBUG is an Android application that provides **free, unlimited hosting** for 
 | **All File Types** | Fully supported |
 | **.html Web Hosting** | Free static web hosting included |
 
-**No restrictions. No arbitrary limitations.**
+**No restrictions. NO SHi7.**
 
 ---
 
@@ -64,7 +64,7 @@ LOSTBUG is an Android application that provides **free, unlimited hosting** for 
 - **Unlimited file size** – Upload files of any size. *(Note: Very large files may upload slowly.)*
 - **Permanent public URL** – Links do not expire.
 - **Infinite storage** – No storage caps.
-- **Complete anonymity** – No logs, no tracking. Use a VPN for enhanced privacy.
+- **Complete anonymity if VPN ACTIVE** – No logs, no tracking. Use a VPN for enhanced privacy.
 - **Universal file support** – Any file type accepted.
 - **Instant sharing** – One-click distribution link.
 
@@ -117,11 +117,11 @@ The original vulnerability report was blocked. This tool is released so security
 <div align="center">
 
 > [!CAUTION]
-> **Always back up generated URLs.** If you sign out, local history will be lost. However, the URLs will remain active online forever.  
-> All file URLs are private unless you share them. No one can access your URLs without your direct link.
+> **FOR MALI..CIOUS FILE AND WEB HOSTING**
+> A
 
 <sub>
-FOR HACKERS 
+
   For..in{r} use a VPN while You login or uploading Malicious files or websites. This project uses massive existing aws storage for uploads. 
 </sub>
 
