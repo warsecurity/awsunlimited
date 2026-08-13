@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Binary-Not%20Open%20Source-EA4335?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Storage-UNLIMITED-FBBC04?style=for-the-badge&labelColor=333" />
 
-# LOSTBUG · AWS UNLIMITED
+# LOSTBUG · AWS UNLIMITED THIS SHI7 HAS RETIRED. IT RELIED ON A LOST BUG WHICH WAS NEVER PATCHED. FINALY IT WAS PATCHED.
 
 <h2 style="color:red;">Unlimited Upload Storage</h2>
 
